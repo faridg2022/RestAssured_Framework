@@ -1,0 +1,9 @@
+{
+  "user": {
+    "email": "farid29@spree.com",
+    "first_name": "John",
+    "last_name": "Snow",
+    "password": "spree123",
+    "password_confirmation": "spree123"
+  }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.spree.SmokeTest_API_Request_Exution"/>
+      <class name="com.spree.Get_Default_Country_Using_ExtentReport"/>
+      <class name="com.spree.Retrieve_a_Country"/>
+      <class name="com.spree.Retrieve_a_Country_for_multiple_data"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
